@@ -1,3 +1,4 @@
 # Fani-Kafa
 
-Some string witchcraft I write while bored and missing caffeine.
+Would you like some ☕?
+Some string witchcraft I wrote while bored and missing caffeine.
